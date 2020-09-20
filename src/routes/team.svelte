@@ -10,7 +10,7 @@
  	<!-- This is card 1 start -->
       <article class="card">
         <header class="card-header">
-          <p>Lorem</p>
+          <p>Hey, i am an open source enthusiast and love low level system stuff.</p>
           <h2>Aaryan Porwal</h2>
         </header>
 
