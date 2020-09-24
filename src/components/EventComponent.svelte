@@ -16,8 +16,8 @@
     <div class="right">
         <h2 class="title">{title}</h2>
         <p class="about">{about}</p>
-        <p class="time"><Icon data={calendar} style="vertical-align: sub;" scale="1.4"/><span> &nbsp; {time}</span></p>
-        <p class="location">&nbsp;<Icon data={mapMarker} style="vertical-align: sub;" scale="1.4"/><span>&nbsp;&nbsp; {location}<span></p>
+        <br>
+        <p class="location">&nbsp;<Icon data={mapMarker} style="vertical-align: sub;" scale="1.4"/><span>&nbsp;&nbsp; {location}<span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <Icon data={calendar} style="vertical-align: sub;" scale="1.4"/><span> &nbsp; {time}</span></p>
     </div>
 </div>
 
