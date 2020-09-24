@@ -6,6 +6,9 @@
   import { onMount } from 'svelte';
 
   import TeamComponent from '../components/TeamComponent.svelte';
+  import AOS from 'aos';
+  import 'aos/dist/aos.css';
+  import 'aos/dist/aos.js';
 
   onMount(() => {
     AOS.init();
