@@ -51,4 +51,10 @@
     a:hover {
         color:white;
     }
+
+    @media (max-width:700px) {
+        .card-header {
+            font-size: 1.2rem;
+        }
+    }
 </style>

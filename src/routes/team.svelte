@@ -34,6 +34,8 @@
     font-size: 3rem;
     font-weight: bold;
     text-align: center;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #ff8c00;
   }
 
   .card-list {
@@ -43,6 +45,9 @@
   }
 
   @media (max-width:700px) {
+    .main-title {
+      font-size:2.5rem;
+    }
     .card-list {
       grid-template-columns: 1fr;
       gap:2rem 1rem;
