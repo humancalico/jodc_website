@@ -5,7 +5,7 @@
     export let location;
     export let imagelink;
     import Icon from 'svelte-awesome/components/Icon.svelte';
-    import { calendar, locationArrow } from 'svelte-awesome/icons';
+    import { calendar, mapMarker } from 'svelte-awesome/icons';
 
 </script>
 
@@ -16,8 +16,8 @@
     <div class="right">
         <h2 class="title">{title}</h2>
         <p class="about">{about}</p>
-        <p class="time"><Icon data={calendar}/> &nbsp;&nbsp; {time}</p>
-        <p class="location"><Icon data={locationArrow}/> &nbsp;&nbsp; {location}</p>
+        <p class="time"><Icon data={calendar} style="vertical-align: sub;" scale="1.4"/><span> &nbsp; {time}</span></p>
+        <p class="location">&nbsp;<Icon data={mapMarker} style="vertical-align: sub;" scale="1.4"/><span>&nbsp;&nbsp; {location}<span></p>
     </div>
 </div>
 
