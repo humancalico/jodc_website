@@ -22,17 +22,17 @@
 <div class="main-title">TEAM</div>
 
 <section class="card-list">
-  <TeamComponent imgSrc="Poster.png" name="Aayush Sahu" role="Core Member"
+  <TeamComponent imgSrc="Photos/Poster.png" name="Aayush Sahu" role="Core Member"
     gitLink="https://www.github.com/aayushmau5" />
-  <TeamComponent imgSrc="Poster.png" name="Aachman Mittal" role="Core Member"
+  <TeamComponent imgSrc="Photos/Poster.png" name="Aachman Mittal" role="Core Member"
     gitLink="https://www.github.com/aayushmau5" />
-  <TeamComponent imgSrc="Poster.png" name="Aaryan Porwal" role="Core Member"
+  <TeamComponent imgSrc="Photos/Poster.png" name="Aaryan Porwal" role="Core Member"
     gitLink="https://www.github.com/aayushmau5" />
-  <TeamComponent imgSrc="Poster.png" name="Akshat Agarwal" role="Core Member"
+  <TeamComponent imgSrc="Photos/Poster.png" name="Akshat Agarwal" role="Core Member"
     gitLink="https://www.github.com/aayushmau5" />
-  <TeamComponent imgSrc="Poster.png" name="Ishan" role="Core Member"
+  <TeamComponent imgSrc="Photos/Poster.png" name="Ishan" role="Core Member"
     gitLink="https://www.github.com/aayushmau5" />
-  <TeamComponent imgSrc="Poster.png" name="Rudraksh Pareek" role="Core Member"
+  <TeamComponent imgSrc="Photos/Poster.png" name="Rudraksh Pareek" role="Core Member"
     gitLink="https://www.github.com/aayushmau5" />
 </section>
 
