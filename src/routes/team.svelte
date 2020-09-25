@@ -9,7 +9,10 @@
 
   import AOS from 'aos';
   import 'aos/dist/aos.css';
-  import 'aos/dist/aos.js'
+  import 'aos/dist/aos.js';
+
+  import 'lazysizes';
+  import 'lazysizes/plugins/parent-fit/ls.parent-fit';
 
   onMount(() => {
     AOS.init();
